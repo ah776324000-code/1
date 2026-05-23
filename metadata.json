@@ -1,0 +1,10 @@
+{
+  "name": "Luxury Dominoes Club",
+  "description": "An interactive Dominoes game for 2 or 4 players featuring real-time teams score calculation, simulated group voice chat with live mic indicator, and message chat.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
